@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "salwa",
+      "email": "salwa@gmail.com",
+      "password": "salwa",
+      "avatar": "1694081900527-542411074.png"
+    },
+    {
+      "username": "kyra",
+      "email": "kyra@gmail.com",
+      "password": "kyra",
+      "avatar": "1694082186617-3303298.png"
+    }
+  ]
+}
